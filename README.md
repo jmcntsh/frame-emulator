@@ -2,6 +2,9 @@
 
 Desktop and headless emulator for Brilliant Labs Frame apps.
 
+This is an unofficial community project and is not affiliated with or endorsed by
+Brilliant Labs.
+
 ## Compatibility Target
 
 The MVP targets the current Brilliant Labs SDK model documented at
